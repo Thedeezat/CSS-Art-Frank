@@ -1,6 +1,6 @@
-# CSS Art: Frank from SpongeBob
+# CSS Art: Frank Character
 
-<img width="1439" alt="frank" src="https://github.com/Thedeezat/Frank/assets/73987226/ca9bd160-be44-49e0-8e43-6ebdea1d6bb5">
+<img width="1439" alt="frank" src="https://github.com/Thedeezat/CSS-Art-Frank/assets/73987226/c477fbac-627a-4b15-9d96-510f79fb708c">
 
 # About the Project
 
@@ -10,4 +10,4 @@ of Frank's character, right down to his expressive facial features and skin colo
 
 # Contributions
 Contributions to improve, optimize, or expand upon the Frank CSS Art are more than welcome! If you have suggestions or
-ideas, feel free to open an issue or submit a pull request. Let's make Frank even more impressive together.
+ideas, feel free to open an issue or submit a pull request. Let's make Frank even more impressive together 😊
