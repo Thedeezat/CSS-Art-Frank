@@ -8,6 +8,11 @@ In this project, I've used the power of CSS to craft an artistic representation 
 By carefully combining CSS properties and utilizing various shapes and gradients, I've managed to capture the essence 
 of Frank's character, right down to his expressive facial features and skin color.
 
+# Technologies Used
+
+- HTML
+- CSS
+
 # Contributions
 Contributions to improve, optimize, or expand upon the Frank CSS Art are more than welcome! If you have suggestions or
 ideas, feel free to open an issue or submit a pull request. Let's make Frank even more impressive together 😊
